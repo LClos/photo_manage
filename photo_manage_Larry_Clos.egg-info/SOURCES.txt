@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+photo_manage/__init__.py
+photo_manage/photo_catalog.py
+photo_manage/photo_discovery.py
+photo_manage_Larry_Clos.egg-info/PKG-INFO
+photo_manage_Larry_Clos.egg-info/SOURCES.txt
+photo_manage_Larry_Clos.egg-info/dependency_links.txt
+photo_manage_Larry_Clos.egg-info/requires.txt
+photo_manage_Larry_Clos.egg-info/top_level.txt
+tests/__init__.py
+tests/unit_tests/__init__.py
+tests/unit_tests/test_photo_catalog.py
